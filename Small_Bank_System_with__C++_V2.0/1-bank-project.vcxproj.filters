@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\CORE">
+      <UniqueIdentifier>{0fbbc37a-e911-4307-9a8c-c01a98a5593e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\EXTERNAL MOUDLES">
+      <UniqueIdentifier>{7527b323-16e5-41ba-a525-068e88f4460d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SCREENS">
+      <UniqueIdentifier>{8395d577-2af7-446b-babf-bfb5df2f1617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MENUES">
+      <UniqueIdentifier>{1c127c5b-3692-4b19-9487-b399cc0a9497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\OBJECT%27S METHODS">
+      <UniqueIdentifier>{17e8740f-3a64-4445-88ec-f2a94e174815}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1-bank-project.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankUser.h">
+      <Filter>Header Files\CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyScreen.h">
+      <Filter>Header Files\SCREENS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginScreen.h">
+      <Filter>Header Files\SCREENS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRegisterLoginScreen.h">
+      <Filter>Header Files\SCREENS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPeriod.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtility.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreenHeader.h">
+      <Filter>Header Files\SCREENS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Header Files\CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageUserMenu.h">
+      <Filter>Header Files\MENUES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransactionsMenu.h">
+      <Filter>Header Files\MENUES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyExchangeMenu.h">
+      <Filter>Header Files\MENUES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenu.h">
+      <Filter>Header Files\MENUES</Filter>
+    </ClInclude>
+    <ClInclude Include="clsClientMethods.h">
+      <Filter>Header Files\OBJECT%27S METHODS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUserMethods.h">
+      <Filter>Header Files\OBJECT%27S METHODS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInterfaceCommunication.h">
+      <Filter>Header Files\EXTERNAL MOUDLES</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Header Files\CORE</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="clients.txt" />
+    <Text Include="users_logs.txt" />
+    <Text Include="users.txt" />
+    <Text Include="transfer_logs.txt" />
+    <Text Include="currencies.txt" />
+  </ItemGroup>
+</Project>

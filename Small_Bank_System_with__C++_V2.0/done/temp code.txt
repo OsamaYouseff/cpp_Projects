@@ -1,0 +1,9 @@
+
+///// bank client.h
+	__declspec(property(get = get_account_num, put = set_account_num)) string account_num;
+	__declspec(property(get = get_PIN_code, put = set_PIN_code)) string PIN_code;
+	__declspec(property(get = get_account_balance, put = set_account_balance)) float account_balance;
+
+
+///// 
+

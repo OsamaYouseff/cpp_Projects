@@ -1,0 +1,51 @@
+﻿  1-bank-project.cpp
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(56,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(240,32): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(251,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(252,21): warning C4018: '<=': signed/unsigned mismatch
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(261,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(287,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(312,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(341,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(369,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(386,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(409,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(601,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(614,37): warning C4244: 'argument': conversion from 'float' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(646,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1084,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1086,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1089,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1098,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1100,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1112,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1114,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1117,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1132,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1138,56): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsUtility.h(1171,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(45,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(264,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(288,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(314,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(349,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(421,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsString.h(426,19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankUser.h(35,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsDate.h(888,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsDate.h(1054,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsDate.h(1059,19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankClient.h(33,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankClient.h(381,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankClient.h(390,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsClientMethods.h(356,61): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsClientMethods.h(588,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsClientMethods.h(590,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsCurrency.h(27,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankClient.h(359): warning C4715: 'clsBankClient::save': not all control paths return a value
+H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\clsBankUser.h(344): warning C4715: 'clsBankUser::save': not all control paths return a value
+  1-bank-project.vcxproj -> H:\Programming\fundamentals with C++\course-11\1-bank-projectff\1-bank-project\x64\Debug\1-bank-project.exe
